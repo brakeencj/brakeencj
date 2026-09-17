@@ -61,10 +61,6 @@ I design and lead platforms that connect procurement, logistics, documents, ERPs
 
 ## Experience snapshot
 
-### Engineering Tech Lead · Birdie
-
-Leading technical direction for logistics and procurement products, including order synchronization, document processing, validation workflows, real-time notifications, and enterprise integrations.
-
 ### Engineering Lead · Kavak
 
 Led software engineering initiatives in a high-growth technology environment. The work was developed in private company repositories and is therefore described here without exposing proprietary implementation details.
