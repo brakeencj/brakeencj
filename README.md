@@ -26,7 +26,7 @@ Hi, I'm **Gabriel Cervantes**, a software engineer and Engineering Tech Lead bas
 
 I design and lead platforms that connect procurement, logistics, documents, ERPs, and real-world operations. I enjoy turning complex business processes into systems that are observable, resilient, and easier for teams to evolve.
 
-- 🧭 **Engineering Tech Lead at Birdie**, working across architecture, delivery, and technical leadership.
+- 🧭 **Engineering Tech Lead**, working across architecture, delivery, and technical leadership.
 - 📦 Building products for **procurement, order tracking, logistics, and document intelligence**.
 - ⚡ Designing **event-driven services** and asynchronous workflows with Kafka.
 - ☁️ Running containerized workloads on **AWS**, with infrastructure defined as code.
