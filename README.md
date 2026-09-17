@@ -75,42 +75,6 @@ Software development, technology consulting, IT leadership, and academic systems
 
 ---
 
-## Selected public work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### [restApiBonds](https://github.com/brakeencj/restApiBonds)
-
-Financial REST API with Django REST Framework, authentication, data modeling, currency calculations, and Swagger/Redoc documentation.
-
-`Python` `Django` `DRF`
-
-</td>
-<td width="33%" valign="top">
-
-### [angularPwaSwBelvo](https://github.com/brakeencj/angularPwaSwBelvo)
-
-Angular progressive web application integrating Belvo, with routing, service workers, reusable components, and responsive UI.
-
-`Angular` `TypeScript` `PWA`
-
-</td>
-<td width="33%" valign="top">
-
-### [oesteBackEnd](https://github.com/brakeencj/oesteBackEnd)
-
-REST API for related person and identification entities, including CRUD operations, logical deletion, persistence, and API documentation.
-
-`Java` `Spring Boot` `JPA`
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### Let's build systems that survive the real world.
